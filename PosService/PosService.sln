@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosService", "PosService.csproj", "{B89B08C1-513D-4E78-A83F-F62F625D4C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageDB", "..\StorageDB\StorageDB.csproj", "{0AECFE49-39F1-4122-95A2-0C3D40FCB3EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89B08C1-513D-4E78-A83F-F62F625D4C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89B08C1-513D-4E78-A83F-F62F625D4C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89B08C1-513D-4E78-A83F-F62F625D4C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89B08C1-513D-4E78-A83F-F62F625D4C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AECFE49-39F1-4122-95A2-0C3D40FCB3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AECFE49-39F1-4122-95A2-0C3D40FCB3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AECFE49-39F1-4122-95A2-0C3D40FCB3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AECFE49-39F1-4122-95A2-0C3D40FCB3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32DDE552-B167-48F6-A96D-3844BE550112}
+	EndGlobalSection
+EndGlobal
